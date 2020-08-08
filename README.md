@@ -14,7 +14,6 @@ Simple library for storing and retrieving data as static files.  Import it every
 
 Included if you run `npm run test`.
 
-## TODO:
+## prime-containers
 
-* Write code to calculate primes which contain each other
-* Put it on my raspberry pi
+Calculates all substrings of a prime that are also prime.  These aren't interesting at all, so I've left them off the mailer.
